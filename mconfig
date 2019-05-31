@@ -22,3 +22,5 @@ build_lscan=m
 build_pknock=m
 build_psd=m
 build_quota2=m
+build_rtsp=m
+build_LUA=m
